@@ -1,0 +1,128 @@
+.chart {
+    position:absolute;
+    margin:10,10,10,10;
+    padding:10px,10px,10px,10px;
+    right:30px;
+    top:120px;
+    height: 310px;
+    width: 310px;
+}
+.linechart{
+    position: absolute;
+    left:270px;
+    height:200px;
+    width:600px;
+    top:490px;
+}
+.posi {
+    position: absolute;
+    left:270px;
+    height:300px;
+    width:600px;
+    top:100px;
+}
+.title {
+    position: absolute;
+    top:0px;
+    height:100px;
+    width:500px;
+    text-align: center;
+    left: 390px;
+    color:skyblue;
+}
+.subtitle1 {
+    position: absolute;
+    top:70px;
+    height:100px;
+    width:130px;
+    text-align: center;
+    right:200px;
+    color:skyblue;
+}
+.subtitle2 {
+    position: absolute;
+    top:430px;
+    height:100px;
+    width:130px;
+    text-align: center;
+    right:200px;
+    color:skyblue;
+}
+.subtitle3 {
+    position: absolute;
+    top:70px;
+    height:100px;
+    width:220px;
+    text-align: center;
+    left:260px;
+    color:skyblue;
+}
+.subtitle4 {
+    position: absolute;
+    top:430px;
+    height:100px;
+    width:220px;
+    text-align: center;
+    left:230px;
+    color:skyblue;
+}
+.subtitle5 {
+    position: absolute;
+    top:70px;
+    height:100px;
+    width:220px;
+    text-align: center;
+    left:-10px;
+    color:skyblue;
+}
+.subtitle6 {
+    position: absolute;
+    top:270px;
+    height:100px;
+    width:220px;
+    text-align: center;
+    left:-30px;
+    color:skyblue;
+}
+.subtitle7 {
+    position: absolute;
+    top:510px;
+    height:100px;
+    width:220px;
+    text-align: center;
+    left:-10px;
+    color:skyblue;
+}
+.list {
+    position: absolute;
+    top:130px;
+    height:300px;
+    width:300px;
+    left:30px;
+    color:rgb(254, 255, 255);
+}
+.warn {
+    position: absolute;
+    top:490px;
+    height:100px;
+    width:300px;
+    right:20px;
+    color:rgb(246, 249, 250);
+    font-size: 24;
+}
+.sug {
+    position: absolute;
+    top:330px;
+    height:300px;
+    width:160px;
+    left:30px;
+    color:rgb(254, 255, 255);
+}
+.num {
+    position: absolute;
+    top:540px;
+    height:300px;
+    width:300px;
+    left:40px;
+    color:rgba(65, 231, 168, 0.685)
+}
