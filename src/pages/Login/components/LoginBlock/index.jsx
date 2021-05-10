@@ -118,7 +118,7 @@ export default function LoginBlock (
               }}
             >
               <Checkbox name="autoLogin" className={styles.infoLeft}>
-                自动登录
+               <div className={styles.infoLeft}>自动登录</div>
               </Checkbox>
             </Item>
           </div>

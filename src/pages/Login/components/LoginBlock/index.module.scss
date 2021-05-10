@@ -37,8 +37,11 @@
 }
 
 .infoLeft {
-    color: $color-text1-3;
+    color: skyblue;
     font-size: 14px;
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .desc {
@@ -48,7 +51,7 @@
 }
 
 .active {
-    color: $color-text1-4;
+    color: skyblue;
     font-weight: $font-weight-3;
     font-size: 24px;
 }
